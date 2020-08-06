@@ -10,7 +10,7 @@
     recommender systems
 
 ## Data and Models
-Get all additional data from our [drive](https://drive.google.com/drive/folders/1sr4tUfyMHK1b5Ct3wGEBgNEW8_DHDlXH?usp=sharing
+Get all additional data from our [drive](https://drive.google.com/drive/folders/1B1yKIw9yReBkGUhY8kDKne9pHmCMdrcT?usp=sharing
 ):
 
 To run the models you will need to download both the models and the posters images.
